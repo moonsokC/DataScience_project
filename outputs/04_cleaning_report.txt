@@ -1,0 +1,59 @@
+Used-Car Dataset Cleaning Report
+========================================
+{
+  "initial_shape": [
+    20000,
+    26
+  ],
+  "duplicate_id_rows_removed": 0,
+  "target_rows_removed": 2699,
+  "price_lower_bound_used": 2000.0,
+  "price_upper_bound_used": 68873.11999999982,
+  "year_rows_removed": 350,
+  "odometer_rows_removed": 30,
+  "dropped_columns": [
+    "id",
+    "url",
+    "region_url",
+    "VIN",
+    "image_url",
+    "county",
+    "description",
+    "posting_date"
+  ],
+  "all_missing_columns_dropped": [],
+  "final_shape": [
+    16921,
+    25
+  ],
+  "final_numeric_columns": [
+    "price",
+    "year",
+    "odometer",
+    "lat",
+    "long",
+    "description_length",
+    "posting_year",
+    "posting_month",
+    "car_age",
+    "odometer_per_year",
+    "is_high_mileage",
+    "manufacturer_frequency"
+  ],
+  "final_categorical_columns": [
+    "region",
+    "manufacturer",
+    "model",
+    "condition",
+    "cylinders",
+    "fuel",
+    "title_status",
+    "transmission",
+    "drive",
+    "size",
+    "type",
+    "paint_color",
+    "state"
+  ],
+  "final_missing_values": 685
+}
