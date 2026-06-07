@@ -41,22 +41,22 @@ Therefore, Ridge Regression was used to answer the following methodological ques
 
 | Member | Main Contribution | Contribution Percentage |
 |---|---|---:|
-| 정문석 | Project topic design, proposal writing, random sampling, preprocessing pipeline, model comparison, GitHub organization, final report writing | 34% |
-| 이재서 | Data inspection, dirty data analysis, visualization, presentation slide preparation, result interpretation, limitation analysis | 33% |
-| 임준서 | Feature engineering, model implementation support, evaluation metric analysis, deal detection examples, presentation/Q&A preparation | 33% |
+| 정문석 | Project topic design, proposal writing, random sampling, preprocessing pipeline, model comparison, GitHub organization, final report writing | 33% |
+| 이재서 | Feature engineering, model implementation support, evaluation metric analysis, deal detection examples, presentation/Q&A preparation | 33% |
+| 임준서 | Data inspection, dirty data analysis, visualization, presentation slide preparation, result interpretation, limitation analysis | 33% |
 
 The percentages can be adjusted based on the actual work distribution discussed by the team. The important point is to describe specific tasks rather than only writing percentages.
 
 ## 4. What We Learned
 
 ### 정문석
-Through this project, I learned that model performance depends not only on choosing an algorithm but also on making appropriate preprocessing decisions. At first, I focused mainly on increasing the model score, but I realized that data cleaning, outlier thresholds, feature engineering, and evaluation metrics can change the result significantly. I also learned the importance of explaining why each model was used. In particular, the feedback about Ridge Regression helped me understand that a model should not be included only because it is available in a library. It should have a clear role in the experiment, such as serving as a regularized linear baseline.
+I learned that strong model performance is not enough unless I can clearly explain why each model was used. The feedback on Ridge Regression and the additional XGBoost experiment helped me connect model selection with data characteristics and evaluation results.
 
 ### 이재서
-I learned that real-world datasets are much messier than class examples. The Craigslist dataset included missing values, unrealistic prices, high-cardinality categorical variables, and noisy listing information. Because of this, I realized that data inspection and preprocessing are essential before modeling. I also learned that visualizations such as price distributions, actual-vs-predicted plots, residual plots, and feature importance graphs are useful not only for presentation but also for understanding model behavior and limitations.
+Working on an actual data project made me realize how crucial the preprocessing phase is, and seeing how performance varies depending on the model was a real eye-opener for me. 
 
 ### 임준서
-I learned that different regression models capture different types of relationships. Ridge Regression was useful as a stable linear baseline, while Random Forest and XGBoost were better at capturing nonlinear patterns and interactions among features such as year, car age, odometer, fuel type, and drive type. I also learned that evaluation should be done with multiple metrics. R², MAE, RMSE, and MAPE each show different aspects of model performance, so relying on only one score can be misleading.
+This team project helped me understand the end-to-end machine learning process and the importance of data preprocessing. I also learned how to evaluate and compare different models using real-world data.This team project helped me understand the end-to-end machine learning process and the importance of data preprocessing. I also learned how to evaluate and compare different models using real-world data.
 
 ## 5. Suggested Final Model Discussion
 
