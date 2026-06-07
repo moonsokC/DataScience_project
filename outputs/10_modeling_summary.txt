@@ -1,0 +1,12 @@
+Modeling Summary
+========================================
+Best experiment by CV RMSE: standard__random_forest
+
+Leaderboard
+             experiment   scaler         model  cv_mae_mean  cv_mae_std  cv_rmse_mean  cv_rmse_std  cv_r2_mean  cv_r2_std     test_MAE    test_RMSE   test_R2  test_MAPE_percent
+standard__random_forest standard random_forest  3817.131995  119.436175   5717.100533   256.962118    0.807281   0.012901  3688.990643  5467.529267  0.833911          27.881639
+  robust__random_forest   robust random_forest  3817.073653  119.676169   5717.415699   257.124613    0.807259   0.012914  3690.012799  5473.107627  0.833572          27.902673
+          robust__ridge   robust         ridge  5052.011944   61.229889   7113.252405   162.413614    0.701806   0.005938  5161.657013  7164.116992  0.714843          44.487401
+        standard__ridge standard         ridge  5052.025495   61.253905   7113.256661   162.423137    0.701806   0.005940  5161.663025  7164.104220  0.714844          44.488134
+          robust__dummy   robust         dummy 10311.702849  160.948475  13405.260593   266.999008   -0.058983   0.006080 10687.161595 13949.701645 -0.081155          83.779745
+        standard__dummy standard         dummy 10311.702849  160.948475  13405.260593   266.999008   -0.058983   0.006080 10687.161595 13949.701645 -0.081155          83.779745

@@ -1,0 +1,12 @@
+Used Car Project Final Output Check (min_price=2000)
+
+Cleaned dataset: 16,921 rows x 25 columns
+Best model: StandardScaler + RandomForestRegressor
+Test MAE: 3688.99
+Test RMSE: 5467.53
+Test R2: 0.833911
+Test MAPE (%): 27.88
+
+Notes:
+- The min_price=2000 version improved Test R2 and MAPE compared with the previous min_price=500 version.
+- Filtered deal detection examples were generated using actual_price >= 5000.
