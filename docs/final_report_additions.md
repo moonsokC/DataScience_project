@@ -45,7 +45,7 @@ Therefore, Ridge Regression was used to answer the following methodological ques
 | 이재서 | Feature engineering, model implementation support, evaluation metric analysis, deal detection examples, presentation/Q&A preparation | 33% |
 | 임준서 | Data inspection, dirty data analysis, visualization, presentation slide preparation, result interpretation, limitation analysis | 33% |
 
-The percentages can be adjusted based on the actual work distribution discussed by the team. The important point is to describe specific tasks rather than only writing percentages.
+
 
 ## 4. What We Learned
 
