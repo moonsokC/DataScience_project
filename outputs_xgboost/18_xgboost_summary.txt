@@ -1,0 +1,23 @@
+XGBoost Experiment Summary
+==========================
+Dataset: cleaned used-car modeling dataset, 16,921 rows x 25 columns
+Target: price
+CV: 5-fold KFold, random_state=42
+
+Main report-safe experiment: XGBoost + OneHotEncoder
+- CV MAE: 3645.52
+- CV RMSE: 5392.24
+- CV R²: 0.8285
+- Test MAE: 3590.57
+- Test RMSE: 5233.80
+- Test R²: 0.8478
+- Test MAPE: 26.39%
+
+Additional tree-optimized experiment: XGBoost + OrdinalEncoder
+- Test MAE: 3486.65
+- Test RMSE: 5047.84
+- Test R²: 0.8584
+- Test MAPE: 25.80%
+
+Interpretation:
+The OneHotEncoder version keeps the same categorical encoding logic used in the original pipeline and already improves over Random Forest. The OrdinalEncoder version is included as an additional tree-model optimization and gives the strongest numerical result, but the final report can focus on the OneHotEncoder version if consistency with the original pipeline is preferred.

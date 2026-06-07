@@ -1,0 +1,233 @@
+feature,importance,absolute_value
+cat__fuel_gas,0.0546032,0.0546032
+cat__drive_fwd,0.05351543,0.05351543
+cat__fuel_diesel,0.051441252,0.051441252
+num__car_age,0.04206992,0.04206992
+cat__cylinders_4 cylinders,0.041899703,0.041899703
+num__year,0.038386427,0.038386427
+cat__type_pickup,0.03683553,0.03683553
+cat__drive_4wd,0.03643491,0.03643491
+cat__cylinders_8 cylinders,0.026445236,0.026445236
+cat__model_Unknown,0.02003682,0.02003682
+cat__manufacturer_hyundai,0.015646266,0.015646266
+cat__fuel_hybrid,0.015427147,0.015427147
+num__odometer,0.014612693,0.014612693
+cat__manufacturer_mitsubishi,0.014111678,0.014111678
+cat__manufacturer_nissan,0.01257229,0.01257229
+cat__type_hatchback,0.01182865,0.01182865
+cat__type_truck,0.0110602565,0.0110602565
+cat__manufacturer_porsche,0.010600622,0.010600622
+cat__transmission_other,0.010315487,0.010315487
+cat__type_sedan,0.010152437,0.010152437
+cat__manufacturer_tesla,0.009051683,0.009051683
+cat__manufacturer_kia,0.008176918,0.008176918
+cat__manufacturer_mercedes-benz,0.007757185,0.007757185
+cat__transmission_automatic,0.007646189,0.007646189
+cat__cylinders_6 cylinders,0.0069123283,0.0069123283
+cat__drive_rwd,0.006887471,0.006887471
+cat__fuel_other,0.006672289,0.006672289
+num__is_high_mileage,0.006592379,0.006592379
+cat__model_corvette,0.0065260543,0.0065260543
+cat__title_status_clean,0.0064220843,0.0064220843
+cat__manufacturer_subaru,0.0064183837,0.0064183837
+cat__manufacturer_dodge,0.006365813,0.006365813
+cat__title_status_Unknown,0.0061050868,0.0061050868
+cat__type_wagon,0.006053747,0.006053747
+cat__manufacturer_audi,0.0060405773,0.0060405773
+cat__manufacturer_fiat,0.0059580696,0.0059580696
+cat__manufacturer_lexus,0.0057902276,0.0057902276
+cat__manufacturer_Unknown,0.005560406,0.005560406
+num__manufacturer_frequency,0.005451599,0.005451599
+cat__region_south florida,0.00527405,0.00527405
+cat__condition_good,0.0052317465,0.0052317465
+num__description_length,0.005052091,0.005052091
+cat__manufacturer_ram,0.004938308,0.004938308
+cat__drive_Unknown,0.0048393635,0.0048393635
+cat__region_denver,0.0048376434,0.0048376434
+cat__model_sienna,0.0046888925,0.0046888925
+cat__manufacturer_lincoln,0.0046713743,0.0046713743
+cat__type_SUV,0.0044399765,0.0044399765
+cat__manufacturer_cadillac,0.0043259053,0.0043259053
+cat__region_western slope,0.0043254974,0.0043254974
+cat__manufacturer_bmw,0.0042539965,0.0042539965
+cat__model_tundra,0.004217095,0.004217095
+cat__manufacturer_toyota,0.004151515,0.004151515
+cat__manufacturer_chrysler,0.0041488097,0.0041488097
+cat__region_monterey bay,0.0041188435,0.0041188435
+cat__model_wrangler,0.004072192,0.004072192
+cat__condition_like new,0.0038723021,0.0038723021
+cat__condition_Unknown,0.0038678078,0.0038678078
+cat__type_Unknown,0.003771358,0.003771358
+cat__type_other,0.0037474555,0.0037474555
+cat__condition_fair,0.0037098739,0.0037098739
+cat__cylinders_10 cylinders,0.0037096876,0.0037096876
+cat__manufacturer_Other,0.0036116918,0.0036116918
+cat__manufacturer_rover,0.0036027238,0.0036027238
+num__long,0.0035119173,0.0035119173
+cat__manufacturer_volvo,0.0035009328,0.0035009328
+cat__manufacturer_ford,0.0034195916,0.0034195916
+cat__type_van,0.0033911292,0.0033911292
+cat__title_status_salvage,0.003383653,0.003383653
+cat__fuel_electric,0.0033659101,0.0033659101
+cat__model_f-250,0.0032199975,0.0032199975
+cat__model_escape,0.0032070384,0.0032070384
+cat__manufacturer_gmc,0.0030684175,0.0030684175
+cat__manufacturer_volkswagen,0.0030508398,0.0030508398
+cat__state_ct,0.0030112935,0.0030112935
+cat__model_silverado,0.0029938545,0.0029938545
+cat__type_offroad,0.0029677134,0.0029677134
+cat__region_orlando,0.0029369972,0.0029369972
+cat__cylinders_Unknown,0.0029323802,0.0029323802
+cat__region_pueblo,0.0028810024,0.0028810024
+cat__size_compact,0.0028242064,0.0028242064
+cat__condition_excellent,0.0028165928,0.0028165928
+cat__manufacturer_chevrolet,0.0027672518,0.0027672518
+cat__model_1500,0.0027527474,0.0027527474
+cat__title_status_rebuilt,0.0027411592,0.0027411592
+cat__cylinders_3 cylinders,0.0027388732,0.0027388732
+cat__manufacturer_jeep,0.0026707067,0.0026707067
+cat__region_bakersfield,0.0026612622,0.0026612622
+cat__state_fl,0.0026194195,0.0026194195
+cat__region_palm springs,0.0026189378,0.0026189378
+cat__type_coupe,0.00253585,0.00253585
+num__odometer_per_year,0.0025335015,0.0025335015
+cat__transmission_Unknown,0.0023977028,0.0023977028
+cat__model_corolla,0.002367749,0.002367749
+cat__type_Other,0.0023234256,0.0023234256
+cat__model_Other,0.00225154,0.00225154
+cat__manufacturer_buick,0.0022457708,0.0022457708
+cat__region_little rock,0.0022337069,0.0022337069
+cat__region_modesto,0.002218195,0.002218195
+cat__model_2500,0.0021918034,0.0021918034
+cat__title_status_lien,0.0021789232,0.0021789232
+cat__state_ga,0.0021786408,0.0021786408
+cat__manufacturer_jaguar,0.002127557,0.002127557
+cat__region_fresno / madera,0.002117213,0.002117213
+cat__state_co,0.00209768,0.00209768
+cat__model_silverado 2500hd,0.0020604902,0.0020604902
+cat__region_lakeland,0.0020521022,0.0020521022
+cat__condition_new,0.0019670208,0.0019670208
+cat__model_3500,0.0019485818,0.0019485818
+cat__paint_color_white,0.0019456464,0.0019456464
+cat__model_focus,0.0019450778,0.0019450778
+"cat__region_washington, DC",0.0019283259,0.0019283259
+cat__paint_color_silver,0.0019052778,0.0019052778
+cat__paint_color_black,0.0018870473,0.0018870473
+num__lat,0.0018822885,0.0018822885
+cat__model_f-350,0.0018578492,0.0018578492
+cat__cylinders_Other,0.0018317756,0.0018317756
+cat__manufacturer_acura,0.0018259081,0.0018259081
+cat__paint_color_custom,0.0018040579,0.0018040579
+cat__region_tampa bay area,0.0017230453,0.0017230453
+cat__region_los angeles,0.0017154026,0.0017154026
+cat__region_san luis obispo,0.0017099206,0.0017099206
+cat__model_impala,0.0017095911,0.0017095911
+cat__region_daytona beach,0.0017013262,0.0017013262
+cat__size_full-size,0.0016865467,0.0016865467
+cat__transmission_manual,0.0016652978,0.0016652978
+cat__fuel_Unknown,0.00166057,0.00166057
+cat__state_ca,0.00165429,0.00165429
+cat__model_4runner,0.0016518702,0.0016518702
+cat__model_grand cherokee,0.0016461067,0.0016461067
+cat__type_convertible,0.0016223819,0.0016223819
+cat__region_flagstaff / sedona,0.0015819576,0.0015819576
+cat__model_f-150,0.0015499347,0.0015499347
+cat__paint_color_green,0.0015421686,0.0015421686
+cat__manufacturer_mazda,0.0015304775,0.0015304775
+cat__region_visalia-tulare,0.0015031638,0.0015031638
+cat__model_silverado 1500,0.0014815008,0.0014815008
+cat__region_jacksonville,0.0014812974,0.0014812974
+cat__type_mini-van,0.0014710727,0.0014710727
+cat__region_delaware,0.0014551707,0.0014551707
+cat__manufacturer_honda,0.0014512892,0.0014512892
+cat__paint_color_Unknown,0.00144841,0.00144841
+cat__region_ft myers / SW florida,0.0014321716,0.0014321716
+cat__region_redding,0.0014121446,0.0014121446
+cat__state_ar,0.0013710638,0.0013710638
+cat__region_Other,0.0013632616,0.0013632616
+cat__model_fusion,0.0013630808,0.0013630808
+cat__model_expedition,0.001356689,0.001356689
+cat__model_tahoe,0.0013297223,0.0013297223
+cat__paint_color_yellow,0.0013189558,0.0013189558
+cat__condition_Other,0.0013141648,0.0013141648
+cat__paint_color_red,0.0012905321,0.0012905321
+cat__region_sarasota-bradenton,0.001283267,0.001283267
+cat__size_Unknown,0.0012793927,0.0012793927
+cat__size_sub-compact,0.0012673881,0.0012673881
+cat__model_malibu,0.001263987,0.001263987
+cat__model_sierra,0.0012518222,0.0012518222
+cat__model_c-class,0.001250846,0.001250846
+cat__state_az,0.0012180428,0.0012180428
+cat__manufacturer_alfa-romeo,0.0012170719,0.0012170719
+cat__model_impreza,0.0011879007,0.0011879007
+cat__region_colorado springs,0.0011778448,0.0011778448
+cat__paint_color_Other,0.0011760812,0.0011760812
+cat__region_space coast,0.0011721421,0.0011721421
+cat__region_fort collins / north CO,0.0011418449,0.0011418449
+cat__state_dc,0.0011031509,0.0011031509
+cat__region_atlanta,0.0010940507,0.0010940507
+cat__region_ocala,0.0010753012,0.0010753012
+cat__model_accord,0.0010304248,0.0010304248
+cat__region_san diego,0.0010182324,0.0010182324
+cat__region_new haven,0.0010075612,0.0010075612
+cat__region_santa barbara,0.001002251,0.001002251
+cat__model_sierra 1500,0.0009880423,0.0009880423
+cat__model_3 series,0.0009346366,0.0009346366
+cat__paint_color_orange,0.00091732247,0.00091732247
+cat__region_anchorage / mat-su,0.0009141822,0.0009141822
+cat__model_jetta,0.0009034606,0.0009034606
+cat__region_reno / tahoe,0.0009025077,0.0009025077
+cat__model_grand caravan,0.00088503544,0.00088503544
+cat__paint_color_brown,0.00086872984,0.00086872984
+cat__manufacturer_pontiac,0.0008178472,0.0008178472
+cat__model_civic,0.00081292953,0.00081292953
+cat__size_mid-size,0.00080881646,0.00080881646
+cat__cylinders_5 cylinders,0.00078874733,0.00078874733
+cat__region_stockton,0.0007868826,0.0007868826
+cat__region_phoenix,0.0007863143,0.0007863143
+cat__model_elantra,0.0007832386,0.0007832386
+cat__model_tacoma,0.0007651184,0.0007651184
+num__posting_month,0.000734654,0.000734654
+cat__state_al,0.0007297265,0.0007297265
+cat__cylinders_other,0.0007186177,0.0007186177
+cat__region_fayetteville,0.00071675336,0.00071675336
+cat__model_rav4,0.0006553713,0.0006553713
+cat__model_soul,0.00065404794,0.00065404794
+cat__region_chico,0.0006368458,0.0006368458
+cat__region_tucson,0.0006252742,0.0006252742
+cat__region_ventura county,0.00061098114,0.00061098114
+cat__region_treasure coast,0.0006099608,0.0006099608
+cat__manufacturer_mercury,0.0005998865,0.0005998865
+cat__paint_color_grey,0.00059906376,0.00059906376
+cat__region_orange county,0.00057907624,0.00057907624
+cat__model_altima,0.00051414844,0.00051414844
+cat__manufacturer_infiniti,0.00047301466,0.00047301466
+cat__region_sacramento,0.0004715061,0.0004715061
+cat__paint_color_blue,0.0004709158,0.0004709158
+cat__region_SF bay area,0.000449901,0.000449901
+cat__manufacturer_mini,0.00042452427,0.00042452427
+cat__region_hartford,0.00034389333,0.00034389333
+cat__region_inland empire,0.00024748524,0.00024748524
+cat__model_mustang,0.00011701118,0.00011701118
+cat__region_yuba-sutter,9.046844e-05,9.046844e-05
+cat__region_tallahassee,5.2444604e-05,5.2444604e-05
+cat__region_prescott,3.8219074e-05,3.8219074e-05
+cat__manufacturer_saturn,0.0,0.0
+num__posting_year,0.0,0.0
+cat__region_hawaii,0.0,0.0
+cat__model_prius,0.0,0.0
+cat__model_sentra,0.0,0.0
+cat__model_sonata,0.0,0.0
+cat__model_charger,0.0,0.0
+cat__model_forester,0.0,0.0
+cat__model_explorer,0.0,0.0
+cat__model_odyssey,0.0,0.0
+cat__model_outback,0.0,0.0
+cat__model_e-class,0.0,0.0
+cat__model_cr-v,0.0,0.0
+cat__model_camry,0.0,0.0
+cat__title_status_Other,0.0,0.0
+cat__state_ak,0.0,0.0
+cat__state_Other,0.0,0.0
+cat__state_de,0.0,0.0
+cat__state_hi,0.0,0.0

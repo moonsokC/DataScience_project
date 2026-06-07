@@ -1,0 +1,36 @@
+Used-Car Dataset Overview
+========================================
+Dataset shape: 20,000 rows x 26 columns
+Feature count excluding target 'price': 25
+Numeric columns: 7
+Categorical columns: 19
+Total missing values: 76,335
+
+Requirement check
+- At least 1,000 records: True
+- At least 10 features: True
+- Contains numerical data: True
+- Contains categorical data: True
+- Contains dirty data / missing values: True
+
+Top 20 columns by missing values
+county          20000
+size            14268
+cylinders        8231
+condition        7669
+VIN              7473
+drive            6239
+paint_color      5942
+type             3954
+manufacturer      877
+title_status      424
+odometer          274
+model             269
+long              182
+lat               182
+fuel              139
+transmission      119
+year               69
+description         8
+posting_date        8
+image_url           8
