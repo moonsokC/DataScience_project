@@ -38,8 +38,7 @@ python scripts/create_random_sample.py
 │   ├── README.md
 │   └── used_cars_cleaned_for_modeling.csv
 ├── docs/
-│   ├── function_specification.md
-│   ├── project_summary.md
+│   ├── final_writeup_outline.md
 │   ├── final_report_additions.md
 │   ├── library_and_function_explanation.md
 │   └── team_contribution_and_reflections.md
@@ -61,7 +60,7 @@ python scripts/create_random_sample.py
 │   ├── 18_xgboost_summary.txt
 │   └── *.png
 ├── reports/
-│   └── DataScience_Team2_Final_Report_English.docx
+│   └── DataScience_Team2_Final_Report.docx
 ├── scripts/
 │   ├── create_random_sample.py
 │   └── run_xgboost_experiment.py
@@ -182,7 +181,7 @@ run_used_car_regression_experiments(
 )
 ```
 
-See `docs/function_specification.md` for details.
+See `docs/final_report_additions.md` and `docs/library_and_function_explanation.md` for details.
 
 ## Limitations
 
